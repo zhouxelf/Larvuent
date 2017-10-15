@@ -2,7 +2,7 @@
 
 ## 安装步骤
 
-1.  克隆项目
+1.  git clone git@github.com:mrzhouxiaofei/Larvuent.git
 2.  composer install
 3.  cp .env.example .env
 4.  php artisan key:generate
