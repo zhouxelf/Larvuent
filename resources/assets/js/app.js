@@ -19,7 +19,7 @@ window.Vue = require('vue');
 // import Hello from './components/Hello.vue'; // 引入Hello 组件
 import App from './App.vue';
 import ElementUI from 'element-ui';
-import 'element-ui/lib/theme-default/index.css';
+import 'element-ui/lib/theme-chalk/index.css';
 Vue.use(ElementUI);
 
 import router from './router/index.js';

@@ -20,6 +20,6 @@
     "vue-router": "^2.7.0"
   },
   "dependencies": {
-    "element-ui": "^1.4.4"
+    "element-ui": "^2.0.11"
   }
 }
